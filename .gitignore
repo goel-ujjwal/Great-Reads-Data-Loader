@@ -1,0 +1,8 @@
+HELP.md
+target/
+
+### VS Code ###
+.vscode/
+
+### Database Secure Bundle ###
+/src/main/resources/secure-connect.zip
